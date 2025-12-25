@@ -17,6 +17,10 @@ export const AppContextProvider = (props) => {
 
     const { user } = useUser()
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a13baf14a824b31435dce64d90a29c97739c7089
     const [products, setProducts] = useState([])
     const [userData, setUserData] = useState(false)
     const [isSeller, setIsSeller] = useState(true)

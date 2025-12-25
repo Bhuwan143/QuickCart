@@ -10,12 +10,22 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^6.36.5",
+<<<<<<< HEAD
     "inngest": "^2.7.2",
     "mongoose": "^9.0.2",
     "next": "^16.1.1",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "react-hot-toast": "^2.5.1"
+=======
+    "inngest": "^3.48.1",
+    "mongoose": "^9.0.2",
+    "next": "^16.1.1",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "react-hot-toast": "^2.5.1",
+    "typescript": "^5.9.3"
+>>>>>>> a13baf14a824b31435dce64d90a29c97739c7089
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
